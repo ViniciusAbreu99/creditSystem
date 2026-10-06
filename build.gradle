@@ -7,7 +7,7 @@ plugins {
     id "org.jetbrains.kotlin.plugin.lombok" version '2.3.21'
 }
 
-group = 'com.meutudo'
+group = 'com.emprestimo'
 version = '0.0.1-SNAPSHOT'
 description = 'creditSystem'
 
